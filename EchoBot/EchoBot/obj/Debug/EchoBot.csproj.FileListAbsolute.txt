@@ -1,0 +1,39 @@
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Bot Application1.dll.config
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Bot Application1.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Bot Application1.pdb
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Autofac.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Chronic.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Bot.Builder.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Bot.Connector.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Newtonsoft.Json.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Net.Http.Formatting.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Web.Http.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Web.Http.WebHost.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Autofac.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Bot.Builder.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Bot.Connector.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\Newtonsoft.Json.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Net.Http.Formatting.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Web.Http.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\System.Web.Http.WebHost.xml
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\obj\Debug\EchoBot.csprojResolveAssemblyReference.cache
+C:\MyProjects\BotFramework\EchoBot\EchoBot\obj\Debug\Bot Application1.dll
+C:\MyProjects\BotFramework\EchoBot\EchoBot\obj\Debug\Bot Application1.pdb
