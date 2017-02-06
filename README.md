@@ -1,2 +1,4 @@
 # Tutorials-BotFramework
-Tutorials- Bot framework samples
+
+Not so private repo for personal references and samples to play around.
+
